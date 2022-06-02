@@ -58,6 +58,9 @@ The idea is to be efficient and better at software developing
    1. DI Containers
       - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection)
    2. [Life Cycles](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection#service-lifetimes)
+      - Scoped
+      - Transient
+      - Singleton
 
 6. Databases
 
